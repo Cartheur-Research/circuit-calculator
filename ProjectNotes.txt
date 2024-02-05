@@ -692,3 +692,5 @@ Circuit Calculator, Mathematics project notes: The antenna and its emissions.
 	1455: Here to checkout the notepad code as the box in haden.autonomy I cannot seem to add spaces to.
 05.02.2024
 	1158: Reoriented this project to fit across three separate repos. Starting development anew around the "Contribution" paper.
+	1819: Need to sort experiments in short order.
+
