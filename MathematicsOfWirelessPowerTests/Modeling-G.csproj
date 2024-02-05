@@ -69,10 +69,6 @@
     <Compile Include="ComplexArrangementTests.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\AntennaCatalog\AntennaCatalog.csproj">
-      <Project>{cab2c10f-8439-4d0f-82b0-e93815356540}</Project>
-      <Name>AntennaCatalog</Name>
-    </ProjectReference>
     <ProjectReference Include="..\CircuitCalculator.csproj">
       <Project>{435efb62-470b-4bf4-8448-1a347a4d7c5b}</Project>
       <Name>CircuitCalculator</Name>
