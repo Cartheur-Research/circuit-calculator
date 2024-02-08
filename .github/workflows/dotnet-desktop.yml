@@ -23,12 +23,12 @@ jobs:
     - name: Checkout repo
       uses: actions/checkout@v3
       with:
-        repository: catheur-research/antenna-catalogue
+        repository: https://github.com/Catheur-Research/antenna-catalogue
 
     - name: Checkout repo
       uses: actions/checkout@v3
       with:
-        repository: catheur-research/pde-toolbox
+        repository: https://github.com/Catheur-Research/pde-toolbox
 
     - name: Checkout
       uses: actions/checkout@v3
