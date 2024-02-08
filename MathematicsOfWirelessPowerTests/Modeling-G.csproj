@@ -38,8 +38,9 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="AnalyticLibrary">
-      <HintPath>..\..\..\analytic.toolbox\AnalyticLibrary\bin\Debug\AnalyticLibrary.dll</HintPath>
+    <Reference Include="AnalyticLibrary, Version=1.1.2.25755, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\AnalyticLibrary.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
