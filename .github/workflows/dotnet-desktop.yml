@@ -19,21 +19,21 @@ jobs:
       Solution_Name: CircuitCalculator.sln # Replace with your solution name, i.e. MyWpfApp.sln.
       Test_Project_Path: MathematicsOfWirelessPowerTests\Modeling-G.csproj  # Replace with the path to your test project, i.e. MyWpfApp.Tests\MyWpfApp.Tests.csproj.
 
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v3
-      with:
-        fetch-depth: 0
-        
+    steps:      
     - name: Checkout repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         repository: catheur-research/antenna-catalogue
 
     - name: Checkout repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         repository: catheur-research/pde-toolbox
+
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
 
     # Install the .NET Core workload
     - name: Install .NET Core
