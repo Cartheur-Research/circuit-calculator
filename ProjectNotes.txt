@@ -699,3 +699,4 @@ Circuit Calculator, Mathematics project notes: The antenna and its emissions.
 08.02.2024
 	1430: The activity of "musings" helped me to gather the twenty quantities and twenty equations that I mentioned in my dissertation but never fully worked them out. Here is that chance.
 	1528: A reminder to attend to the missing build files for piquant.
+	1626: Attending to this now.
