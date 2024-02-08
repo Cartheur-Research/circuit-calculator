@@ -696,3 +696,5 @@ Circuit Calculator, Mathematics project notes: The antenna and its emissions.
 06.02.2024
 	1209: Forward momentum is established. Now onto the fun.
 	1408: Whatever, more fraud.
+08.02.2024
+	1430: The activity of "musings" helped me to gather the twenty quantities and twenty equations that I mentioned in my dissertation but never fully worked them out. Here is that chance.
