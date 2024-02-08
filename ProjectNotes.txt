@@ -702,3 +702,5 @@ Circuit Calculator, Mathematics project notes: The antenna and its emissions.
 	1626: Attending to this now.
 	1841: Removed references to antenna catalogue and pde toolbox.
 	1853: Pointed to the libraries in the 'lib' folder.
+	1911: On a staging branch. Done for today.
+
