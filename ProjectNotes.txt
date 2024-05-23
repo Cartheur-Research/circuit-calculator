@@ -705,4 +705,6 @@ Circuit Calculator, Mathematics project notes: The antenna and its emissions.
 	1911: On a staging branch. Done for today.
 03.04.2024
 	1721: Moved on to the 'void'. Things will get relevant soon.
+23.05.2024
+	1108: The 'void' yielded what was expected. Hence my return.
 
